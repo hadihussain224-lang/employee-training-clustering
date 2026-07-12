@@ -1,0 +1,201 @@
+EmployeeID,JobRole,LocationID,Tenure,FirstName,LastName,PayGrade,SupervisorID,Country,Email
+SURV0012,Barista,NYC,11.1,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0016,Logistics Analyst,TOR,9.5,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0020,Barista,NYC,3.4,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0022,Logistics Analyst,TOR,3,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0024,Barista,TOR,14.6,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0027,Warehouse Supervisor,TOR,2.7,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0029,Store Manager,NYC,2.3,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0032,Barista,LON,10.6,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0036,Store Manager,TOR,4.7,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0037,Logistics Analyst,TOR,14.1,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0039,Store Manager,TOR,12.2,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0041,Store Manager,NYC,1.3,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0042,Barista,LON,9,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0044,Logistics Analyst,LON,8.7,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0048,Store Manager,TOR,9.5,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0049,Trainer,LON,5.2,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0052,Barista,WAW,8.8,XXX,XXX,XXX,XXX,Poland,xxx@terranova.coffee
+SURV0053,Warehouse Supervisor,NYC,7.8,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0057,Logistics Analyst,TOR,2.3,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0060,Warehouse Supervisor,SGP,2.9,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0064,Warehouse Supervisor,MEX,7,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0065,Warehouse Supervisor,MEX,6.2,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0067,Barista,WAW,11.3,XXX,XXX,XXX,XXX,Poland,xxx@terranova.coffee
+SURV0069,Barista,LON,9.2,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0071,Warehouse Supervisor,NYC,13.8,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0075,Store Manager,LON,6.7,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0078,Warehouse Supervisor,WAW,10.3,XXX,XXX,XXX,XXX,Poland,xxx@terranova.coffee
+SURV0079,Store Manager,SGP,12.1,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0081,Store Manager,LON,4.3,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0085,Logistics Analyst,SGP,9.2,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0087,Warehouse Supervisor,NYC,1.8,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0090,Barista,LON,8.8,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0092,Logistics Analyst,LON,14.7,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0094,Logistics Analyst,SGP,12,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0097,Warehouse Supervisor,SGP,1.8,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0100,Logistics Analyst,NYC,1.2,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0104,Warehouse Supervisor,WAW,12.4,XXX,XXX,XXX,XXX,Poland,xxx@terranova.coffee
+SURV0105,Store Manager,SGP,11.8,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0107,Barista,TOR,8.3,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0111,Barista,NYC,14.1,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0113,Warehouse Supervisor,NYC,9.4,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0115,Store Manager,WAW,5.8,XXX,XXX,XXX,XXX,Poland,xxx@terranova.coffee
+SURV0117,Logistics Analyst,LON,10.2,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0120,Store Manager,NYC,7.7,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0122,Logistics Analyst,LON,2.1,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0123,Logistics Analyst,LON,9.9,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0126,Barista,TOR,1,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0128,Logistics Analyst,WAW,5.8,XXX,XXX,XXX,XXX,Poland,xxx@terranova.coffee
+SURV0132,Trainer,TOR,11.4,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0133,Store Manager,LON,8,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0136,Logistics Analyst,LON,6.3,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0138,Store Manager,LON,11.3,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0140,Barista,TOR,13.6,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0144,Store Manager,NYC,2.2,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0145,Trainer,TOR,7.7,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0148,Logistics Analyst,MEX,13.7,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0152,Warehouse Supervisor,NYC,7.8,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0154,Warehouse Supervisor,LON,11.1,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0157,Warehouse Supervisor,TOR,6.5,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0160,Warehouse Supervisor,SGP,11.5,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0163,Warehouse Supervisor,MEX,14,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0167,Store Manager,TOR,4.3,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0169,Barista,WAW,8.5,XXX,XXX,XXX,XXX,Poland,xxx@terranova.coffee
+SURV0173,Store Manager,WAW,7.3,XXX,XXX,XXX,XXX,Poland,xxx@terranova.coffee
+SURV0176,Barista,TOR,3.6,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0179,Warehouse Supervisor,NYC,10.8,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0181,Warehouse Supervisor,MEX,5.4,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0182,Logistics Analyst,SGP,5.9,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0183,Store Manager,MEX,13.4,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0186,Store Manager,TOR,8.8,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0188,Barista,SGP,1.7,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0190,Barista,TOR,5.1,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0191,Store Manager,WAW,7.6,XXX,XXX,XXX,XXX,Poland,xxx@terranova.coffee
+SURV0194,Barista,TOR,3.6,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0195,Store Manager,TOR,8,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0199,Logistics Analyst,SGP,9.1,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0200,Logistics Analyst,MEX,11.1,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0203,Warehouse Supervisor,MEX,5.7,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0206,Barista,LON,1.3,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0209,Barista,SGP,0.4,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0210,Store Manager,NYC,3.3,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0213,Logistics Analyst,NYC,12.6,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0215,Logistics Analyst,LON,12.1,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0219,Barista,MEX,4.1,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0220,Store Manager,WAW,3.7,XXX,XXX,XXX,XXX,Poland,xxx@terranova.coffee
+SURV0223,Barista,MEX,0.9,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0224,Barista,TOR,10.8,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0226,Store Manager,LON,12,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0228,Warehouse Supervisor,SGP,10,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0231,Barista,NYC,4,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0233,Logistics Analyst,NYC,1.2,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0234,Store Manager,MEX,6.3,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0238,Warehouse Supervisor,MEX,4.2,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0239,Warehouse Supervisor,MEX,4.2,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0243,Barista,TOR,3,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0247,Warehouse Supervisor,NYC,5.7,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0248,Warehouse Supervisor,SGP,12.5,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0252,Store Manager,LON,6.7,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0255,Trainer,SGP,14.5,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0258,Store Manager,LON,4.6,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0262,Store Manager,LON,14.7,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0264,Trainer,LON,6.9,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0267,Warehouse Supervisor,NYC,14.7,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0269,Barista,LON,10.6,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0270,Barista,WAW,11.3,XXX,XXX,XXX,XXX,Poland,xxx@terranova.coffee
+SURV0273,Barista,LON,8.8,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0274,Barista,MEX,11.9,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0278,Barista,NYC,5.1,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0279,Trainer,WAW,3.5,XXX,XXX,XXX,XXX,Poland,xxx@terranova.coffee
+SURV0281,Store Manager,TOR,5.8,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0283,Trainer,NYC,9.3,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0287,Store Manager,LON,13,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0291,Warehouse Supervisor,NYC,6.8,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0294,Barista,LON,5.3,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0295,Barista,LON,1.9,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0298,Warehouse Supervisor,TOR,11.4,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0301,Logistics Analyst,MEX,6.9,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0305,Warehouse Supervisor,MEX,8.9,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0307,Logistics Analyst,MEX,12.9,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0311,Barista,LON,0.1,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0312,Store Manager,TOR,7.7,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0314,Warehouse Supervisor,SGP,0.5,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0315,Warehouse Supervisor,LON,7,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0317,Barista,LON,1.9,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0321,Warehouse Supervisor,MEX,3.8,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0325,Trainer,WAW,4.2,XXX,XXX,XXX,XXX,Poland,xxx@terranova.coffee
+SURV0327,Store Manager,TOR,3.6,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0331,Store Manager,LON,4.8,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0334,Logistics Analyst,LON,13.9,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0336,Trainer,TOR,12.1,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0338,Barista,NYC,11,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0339,Store Manager,TOR,0.8,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0343,Trainer,NYC,8.5,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0346,Warehouse Supervisor,TOR,4.8,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0350,Trainer,LON,5.8,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0352,Warehouse Supervisor,SGP,1,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0356,Store Manager,LON,8.9,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0360,Warehouse Supervisor,WAW,6.4,XXX,XXX,XXX,XXX,Poland,xxx@terranova.coffee
+SURV0363,Warehouse Supervisor,NYC,13,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0364,Store Manager,NYC,4.9,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0366,Warehouse Supervisor,WAW,6.5,XXX,XXX,XXX,XXX,Poland,xxx@terranova.coffee
+SURV0370,Barista,MEX,2.6,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0371,Store Manager,LON,12.6,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0372,Barista,TOR,8.4,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0373,Barista,LON,14.5,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0374,Trainer,WAW,6.1,XXX,XXX,XXX,XXX,Poland,xxx@terranova.coffee
+SURV0375,Warehouse Supervisor,TOR,14.9,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0377,Barista,NYC,7.7,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0380,Store Manager,NYC,15,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0381,Store Manager,MEX,8.8,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0385,Warehouse Supervisor,TOR,11.2,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0387,Logistics Analyst,TOR,10.4,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0390,Warehouse Supervisor,MEX,9.8,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0393,Logistics Analyst,SGP,10.5,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0397,Warehouse Supervisor,NYC,2.8,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0399,Warehouse Supervisor,MEX,8.1,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0403,Logistics Analyst,TOR,4.1,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0405,Warehouse Supervisor,SGP,1.7,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0407,Trainer,TOR,2.8,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0410,Logistics Analyst,TOR,11,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0414,Warehouse Supervisor,SGP,2.7,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0417,Trainer,WAW,12.7,XXX,XXX,XXX,XXX,Poland,xxx@terranova.coffee
+SURV0419,Barista,LON,3.5,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0422,Logistics Analyst,TOR,1.4,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0423,Trainer,NYC,4.7,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0426,Warehouse Supervisor,SGP,2.3,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0430,Logistics Analyst,LON,7.1,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0434,Warehouse Supervisor,NYC,12.9,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0438,Logistics Analyst,WAW,1.4,XXX,XXX,XXX,XXX,Poland,xxx@terranova.coffee
+SURV0439,Barista,NYC,10.2,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0443,Trainer,LON,11,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0444,Barista,TOR,0.4,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0445,Warehouse Supervisor,TOR,10.8,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0447,Barista,WAW,13.7,XXX,XXX,XXX,XXX,Poland,xxx@terranova.coffee
+SURV0451,Logistics Analyst,LON,1.8,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0453,Barista,SGP,11.3,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0457,Logistics Analyst,SGP,14.8,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0459,Trainer,TOR,7.8,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0463,Logistics Analyst,MEX,10.2,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0467,Logistics Analyst,WAW,12,XXX,XXX,XXX,XXX,Poland,xxx@terranova.coffee
+SURV0471,Trainer,MEX,12.4,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0472,Store Manager,MEX,7.5,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0476,Trainer,SGP,8.6,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0480,Warehouse Supervisor,NYC,6.2,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0481,Logistics Analyst,MEX,6.3,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0485,Logistics Analyst,SGP,13.1,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0487,Warehouse Supervisor,SGP,0.7,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0490,Logistics Analyst,TOR,6.4,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0494,Warehouse Supervisor,LON,3.5,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0497,Trainer,LON,3.1,XXX,XXX,XXX,XXX,United Kingdom,xxx@terranova.coffee
+SURV0498,Barista,NYC,2.1,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0502,Logistics Analyst,NYC,8.5,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0506,Warehouse Supervisor,NYC,1.1,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0507,Warehouse Supervisor,SGP,2.9,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0511,Logistics Analyst,NYC,11.8,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0515,Logistics Analyst,NYC,14.7,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
+SURV0519,Logistics Analyst,SGP,3.1,XXX,XXX,XXX,XXX,Singapore,xxx@terranova.coffee
+SURV0523,Store Manager,TOR,0.6,XXX,XXX,XXX,XXX,Canada,xxx@terranova.coffee
+SURV0524,Store Manager,MEX,7.2,XXX,XXX,XXX,XXX,Mexico,xxx@terranova.coffee
+SURV0528,Barista,NYC,5.3,XXX,XXX,XXX,XXX,United States,xxx@terranova.coffee
